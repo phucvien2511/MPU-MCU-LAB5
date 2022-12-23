@@ -1,0 +1,3 @@
+fsm.c:17:5:validateCmd	16	static
+fsm.c:32:6:command_parser_fsm	8	static
+fsm.c:62:6:uart_communication_fsm	8	static
